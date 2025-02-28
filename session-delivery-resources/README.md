@@ -8,7 +8,7 @@ Welcome!! You are here because you want to be able to _deliver_ this session at 
 
 | Resources | Links | Description |
 |:---|:---|:---|
-| 1. Presentation Slides | [Link]{https://aka.ms/AAuryug) | Speaker deck used for the presentation |
+| 1. Presentation Slides | [Link](https://aka.ms/AAuryug) | Speaker deck used for the presentation |
 | 2. Presentation Video | **TBD** | Speaker training video for guidance|
 | 3. Code Samples | [Link](https://aka.ms/aitour/WRK552) | Reuse the WRK552 lab in Codespaces |
 | 4. Other Assets | [Link](./AIAgentService-TheaterSession.png) | Illustrated recap useful for blogs or social|
