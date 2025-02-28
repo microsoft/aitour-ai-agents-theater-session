@@ -1,4 +1,4 @@
-# Azure AI Agent Service: 15-minute Theatre Session
+# Theater DIS192 : Azure AI Agent Service Introduction
 
 _Join Azure AI Discord community to engage with a global community of learners and practitioners._
 
